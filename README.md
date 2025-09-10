@@ -15,8 +15,7 @@
 
 ## 📖 Introduction
 
-This repository is related to **Emotion-Controllable Face Generation**. It organizes research works in this area and categorizes them by **different tasks** for easier navigation.  
-Our goal is to maintain a **living resource** that helps researchers and practitioners track the latest progress in the field.
+This repository is related to **Emotion-Controllable Face Generation**. It organizes research works in this area and categorizes them by **different tasks** for easier navigation. Our goal is to maintain a **living resource** that helps researchers and practitioners track the latest progress in the field.
 
 
 ## 📢 News

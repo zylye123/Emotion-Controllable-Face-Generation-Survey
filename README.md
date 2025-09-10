@@ -12,11 +12,9 @@
   <img src="https://img.shields.io/badge/Update 🔥-2025.09.xx-red" alt="MorePapers">
 </p>
 
-
 ## 📖 Introduction
 
 This repository is related to **Emotion-Controllable Face Generation**. It organizes research works in this area and categorizes them by **different tasks** for easier navigation. Our goal is to maintain a **living resource** that helps researchers and practitioners track the latest progress in the field.
-
 
 ## 📢 News
 
@@ -29,22 +27,15 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
   - [📖 Introduction](#introduction)
   - [📢 News](#news)
   - [📚 Papers](#papers)
+    - [Identity-preserving Expression Editing](#identity-preserving-expression-editing)
+    - [Categorical Conditioned Generation](#categorical-conditioned-generation)
+    - [Face Swapping](#face-swapping)
+    - [Talking Face Generation](#talking-face-generation)
+    - [Face Image Animation](#face-image-animation)
+    - [Listener Response Synthesis](#listener-response-synthesis)
   - [🔄 Update](#update)
 
 ## 📚 Papers
-<details><summary>Categorical Conditioned Generation</summary>
-
-| **Date**  | **Title** | **Link** | **Representation** | **Model** | **Venue** |
-|:---------:|:---------:|:---------------:|:-----------------:|:---------:|:---------:|
-| 2021-06   | GANmut: Learning interpretable conditional space for gamut of emotions | [![CVPR](https://img.shields.io/badge/CVPR-blue)](https://openaccess.thecvf.com/content/CVPR2021/papers/dApolito_GANmut_Learning_Interpretable_Conditional_Space_for_Gamut_of_Emotions_CVPR_2021_paper.pdf) | V/A model | GAN | CVPR 2021 |
-| 2024-04-01| A Unified and Interpretable Emotion Representation and Expression Generation | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.01243) | AU Vector + V/A Model | Diffusion | CVPR 2024 |
-| 2022-11-23| CGOF++: Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.13251) | 3DMM | GAN | TPAMI 2023 |
-| 2020-04-02| Learning formation of physically-based face attributes | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2004.03458) | 3DMM + UV map | GAN | CVPR 2020 |
-| 2023-04-20| Collaborative Diffusion for Multi-Modal Face Generation and Editing | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.10530) | Text + Semantic Map | Diffusion | CVPR 2023 |
-| 2023-12-21| Controllable 3D Face Generation with Conditional Style Code Diffusion | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13941) | Text + 3DMM | Diffusion | AAAI 2024 |
-
-</details>
-
 
 <details><summary>Identity-preserving Expression Editing</summary>
 
@@ -72,6 +63,18 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2025-04-30 	|             Instruction-Driven 3D Facial Expression Generation and Transition| [![TMM](https://img.shields.io/badge/TMM-blue)](https://ieeexplore.ieee.org/abstract/document/10980355) 	|           Text             	| VAE	|                    TMM 2025                   	|
 </details>
 
+<details><summary>Categorical Conditioned Generation</summary>
+
+| **Date**  | **Title** | **Link** | **Representation** | **Model** | **Venue** |
+|:---------:|:---------:|:---------------:|:-----------------:|:---------:|:---------:|
+| 2021-06   | GANmut: Learning interpretable conditional space for gamut of emotions | [![CVPR](https://img.shields.io/badge/CVPR-blue)](https://openaccess.thecvf.com/content/CVPR2021/papers/dApolito_GANmut_Learning_Interpretable_Conditional_Space_for_Gamut_of_Emotions_CVPR_2021_paper.pdf) | V/A model | GAN | CVPR 2021 |
+| 2024-04-01| A Unified and Interpretable Emotion Representation and Expression Generation | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.01243) | AU Vector + V/A Model | Diffusion | CVPR 2024 |
+| 2022-11-23| CGOF++: Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.13251) | 3DMM | GAN | TPAMI 2023 |
+| 2020-04-02| Learning formation of physically-based face attributes | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2004.03458) | 3DMM + UV map | GAN | CVPR 2020 |
+| 2023-04-20| Collaborative Diffusion for Multi-Modal Face Generation and Editing | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.10530) | Text + Semantic Map | Diffusion | CVPR 2023 |
+| 2023-12-21| Controllable 3D Face Generation with Conditional Style Code Diffusion | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13941) | Text + 3DMM | Diffusion | AAAI 2024 |
+
+</details>
 
 <details><summary>Face Swapping</summary>
 
@@ -81,7 +84,6 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2025-03-11 | UniFace++: Revisiting a Unified Framework for Face Reenactment and Swapping via 3D Priors | [![IJCV](https://img.shields.io/badge/IJCV-blue)](https://link.springer.com/article/10.1007/s11263-025-02395-6) | 3DMM | Diffusion | IJCV 2025 |
 
 </details>
-
 
 <details><summary>Talking Face Generation</summary>
 
@@ -110,17 +112,6 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 
 </details>
 
-<details><summary>Listener Response Synthesis</summary>
-
-| **Date**   | **Title** | **Link** | **Representation** | **Model** | **Venue** |
-|:----------:|:----------|:--------:|:------------------:|:---------:|:---------:|
-| 2022-04-18	|  Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.08451) 	|Audio  | VAE 	|  CVPR 2022  |
-| 2024-01-15	|             Emotional Listener Portrait: Realistic Listener Motion Simulation in Conversation| [![ICCV](https://img.shields.io/badge/ICCV-blue)](https://ieeexplore.ieee.org/abstract/document/10377831) 	|          Audio + Emotion Vector + 3DMM          	| VAE 	|              ICCV 2023             	|
-| 2024-03-14	|             Dyadic Interaction Modeling for Social Behavior Generation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.09069) 	|          Audio       	| VAE 	|              ECCV 2024             	|
-| 2024-03-01	|             CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.00274) 	|          Text + Audio       	| Diffusion  	|              CVPR 2024             	|
-
-</details>
-
 <details><summary>Face Image Animation</summary>
 
 | **Date**   | **Title** | **Link** | **Representation** | **Model** | **Venue** |
@@ -132,6 +123,17 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2020-02-29	|             First Order Motion Model for Image Animation          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2003.00196) 	|          GAN          	| Motion Field	|             NeurlPS 2019             	|
 | 2022-03-27	|             Thin-Plate Spline Motion Model for Image Animation          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.14367) 	|          GAN          	| Motion Field	|             CVPR 2022             	|
 | 2022-03-17	|             Latent Image Animator: Learning to Animate Images via Latent Space Navigation          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09043) 	|          GAN          	| Motion Field	|             TPAMI 2024             	|
+
+</details>
+
+<details><summary>Listener Response Synthesis</summary>
+
+| **Date**   | **Title** | **Link** | **Representation** | **Model** | **Venue** |
+|:----------:|:----------|:--------:|:------------------:|:---------:|:---------:|
+| 2022-04-18	|  Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.08451) 	|Audio  | VAE 	|  CVPR 2022  |
+| 2024-01-15	|             Emotional Listener Portrait: Realistic Listener Motion Simulation in Conversation| [![ICCV](https://img.shields.io/badge/ICCV-blue)](https://ieeexplore.ieee.org/abstract/document/10377831) 	|          Audio + Emotion Vector + 3DMM          	| VAE 	|              ICCV 2023             	|
+| 2024-03-14	|             Dyadic Interaction Modeling for Social Behavior Generation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.09069) 	|          Audio       	| VAE 	|              ECCV 2024             	|
+| 2024-03-01	|             CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.00274) 	|          Text + Audio       	| Diffusion  	|              CVPR 2024             	|
 
 </details>
 

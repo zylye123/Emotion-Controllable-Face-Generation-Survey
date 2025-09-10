@@ -23,11 +23,11 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 
 ## 🔖 Table of Contents
 
-- [A Survey on Emotion-Controllable Face Generation](#a-survey-on-emotion-controllable-face-generation)
+- [A Survey on Emotion-Controllable Face Generation](#a-survey-on-emotion--controllable-face-generation)
   - [📖 Introduction](#introduction)
   - [📢 News](#news)
   - [📚 Papers](#papers)
-    - [Identity-preserving Expression Editing](#identity-preserving-expression-editing)
+    - [Identity-preserving Expression Editing](#identity--preserving-expression-editing)
     - [Categorical Conditioned Generation](#categorical-conditioned-generation)
     - [Face Swapping](#face-swapping)
     - [Talking Face Generation](#talking-face-generation)

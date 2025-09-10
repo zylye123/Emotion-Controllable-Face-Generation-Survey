@@ -33,7 +33,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
     - [Talking Face Generation](#talking-face-generation)
     - [Face Image Animation](#face-image-animation)
     - [Listener Response Synthesis](#listener-response-synthesis)
-  - [🔄 Update](#update)
+  - [🔄 Updates](#updates)
 
 ## 📚 Papers
 

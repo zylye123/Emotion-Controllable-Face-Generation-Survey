@@ -12,13 +12,13 @@
   <img src="https://img.shields.io/badge/Update 🔥-2025.09.xx-red" alt="MorePapers">
 </p>
 
+
 ## 📖 Introduction
 
-This repository accompanies our survey *"A Survey on Emotion-Controllable Face Generation"*.  
-It collects and organizes over 250 papers related to **emotion-controllable face generation**, covering methods, datasets, and evaluation protocols.  
+This repository is related to **Emotion-Controllable Face Generation**.  
+It organizes research works in this area and categorizes them by **different tasks** for easier navigation.  
 
-To make the field easier to navigate, we categorize the works by **different tasks** and provide structured references for quick access.  
-Our goal is to maintain a **living resource** that helps researchers and practitioners track the latest progress and find relevant works efficiently.
+Our goal is to maintain a **living resource** that helps researchers and practitioners track the latest progress in the field.
 
 
 ## 📢 News

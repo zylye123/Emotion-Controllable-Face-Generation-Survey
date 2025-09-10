@@ -33,7 +33,6 @@ Our goal is to maintain a **living resource** that helps researchers and practit
   - [📢 News](#news)
   - [📚 Papers](#papers)
   - [🔄 Update](#update)
-  - [🤝 Contributing](#-contributing)
 
 ## 📚 Papers
 
@@ -168,31 +167,6 @@ We regularly track newly published papers, datasets, and projects related to **E
 - 🙌 **Community help**: If you notice new works that are not yet included, feel free to open an issue or a pull request.  
 
 Stay tuned for the latest progress!
-
-
-## 🤝 Contributing
-
-We warmly welcome contributions from the community!  
-This survey aims to provide a comprehensive overview of **Emotion-Controllable Face Generation**, and we would be grateful for your help in keeping it up to date.
-
-### What you can contribute
-- 📄 **Papers**: recently published works related to emotion-controllable face generation.  
-- 📊 **Datasets**: public datasets that enable training or evaluation in this area.  
-- 🛠️ **Projects & Tools**: open-source implementations, libraries, or frameworks.  
-- 🎬 **Demos & Applications**: interactive systems, web demos, or products showcasing relevant techniques.
-
-### How to contribute
-1. **Open an issue** to suggest new papers, datasets, or corrections.  
-2. **Submit a pull request (PR)** with your additions (please follow the existing format for consistency).  
-3. For major contributions (e.g., restructuring sections), please discuss with us first via an issue.  
-
-### Contribution guidelines
-- Ensure references include **title, authors, venue, and year**.  
-- Add links to **official repositories or project pages** whenever possible.  
-- Keep descriptions concise and objective (avoid promotional wording).  
-
-By contributing, you help make this survey a **living resource** for researchers and practitioners in the field of **Emotion-Controllable Face Generation**. Thank you for your support! 🙌
-
 
 ## Cite The Survey
 If you find our survey and repository useful for your research project, please consider citing our paper:

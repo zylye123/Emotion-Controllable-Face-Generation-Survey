@@ -27,7 +27,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
   - [📖 Introduction](#-introduction)
   - [📢 News](#-news)
   - [📚 Papers](#-papers)
-    - [Identity-preserving Expression Editing](#identity--preserving-expression-editing)
+    - [Identity-preserving Expression Editing](#identity-preserving-expression-editing)
     - [Categorical Conditioned Generation](#categorical-conditioned-generation)
     - [Face Swapping](#face-swapping)
     - [Talking Face Generation](#talking-face-generation)

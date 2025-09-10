@@ -136,6 +136,9 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2024-03-14	|             Dyadic Interaction Modeling for Social Behavior Generation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.09069) 	|          Audio       	| VAE 	|              ECCV 2024             	|
 | 2024-03-01	|             CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.00274) 	|          Text + Audio       	| Diffusion  	|              CVPR 2024             	|
 
+> 🔗 **Note**: We prioritize linking to **arXiv** (earliest version).  
+> If a paper is not on arXiv, we provide the earliest official conference/journal link.
+
 
 ## 🔄 Updates 
 

@@ -38,7 +38,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 
 ## 📚 Papers
 
-<details><summary>Identity-preserving Expression Editing</summary>
+###Identity-preserving Expression Editing
 
 | **Date**  | **Title** | **Link** | **Representation** | **Model** | **Venue** |
 |:---------:|:----------|:--------:|:------------------:|:---------:|:---------:|
@@ -62,9 +62,8 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2023-12-07 	|             PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04461) 	|           Text             	| Diffusion	|                    CVPR 2024                  	|
 | 2024-01-02 	|             Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01207) 	|           Text             	| Diffusion	|                    CVPR 2024                   	|
 | 2025-04-30 	|             Instruction-Driven 3D Facial Expression Generation and Transition| [![TMM](https://img.shields.io/badge/TMM-blue)](https://ieeexplore.ieee.org/abstract/document/10980355) 	|           Text             	| VAE	|                    TMM 2025                   	|
-</details>
 
-<details><summary>Categorical Conditioned Generation</summary>
+###Categorical Conditioned Generation
 
 | **Date**  | **Title** | **Link** | **Representation** | **Model** | **Venue** |
 |:---------:|:---------:|:---------------:|:-----------------:|:---------:|:---------:|
@@ -75,18 +74,18 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2023-04-20| Collaborative Diffusion for Multi-Modal Face Generation and Editing | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.10530) | Text + Semantic Map | Diffusion | CVPR 2023 |
 | 2023-12-21| Controllable 3D Face Generation with Conditional Style Code Diffusion | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13941) | Text + 3DMM | Diffusion | AAAI 2024 |
 
-</details>
 
-<details><summary>Face Swapping</summary>
+
+###Face Swapping
 
 | **Date**   | **Title** | **Link** | **Representation** | **Model** | **Venue** |
 |:----------:|:----------|:--------:|:------------------:|:---------:|:---------:|
 | 2021-08-18 | A Unified Framework for High Fidelity Face Swap and Expression Reenactment | [![TCSVT](https://img.shields.io/badge/TCSVT-blue)](https://ieeexplore.ieee.org/abstract/document/9517088/) | 3DMM | VAE | TCSVT 2022 |
 | 2025-03-11 | UniFace++: Revisiting a Unified Framework for Face Reenactment and Swapping via 3D Priors | [![IJCV](https://img.shields.io/badge/IJCV-blue)](https://link.springer.com/article/10.1007/s11263-025-02395-6) | 3DMM | Diffusion | IJCV 2025 |
 
-</details>
 
-<details><summary>Talking Face Generation</summary>
+
+###Talking Face Generation
 
 | **Date**   | **Title** | **Link** | **Representation** | **Model** | **Venue** |
 |:----------:|:----------|:--------:|:------------------:|:---------:|:---------:|
@@ -111,9 +110,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2024-08-12	|           DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animatio| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06010) 	|         Audio            	| VAE  	|              AAAI 2025              	|
 | 2025-03-03	|          KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.01715) 	|         Audio + V/A Model             	| Diffusion 	|              CVPR 2025               	|
 
-</details>
-
-<details><summary>Face Image Animation</summary>
+###Face Image Animation
 
 | **Date**   | **Title** | **Link** | **Representation** | **Model** | **Venue** |
 |:----------:|:----------|:--------:|:------------------:|:---------:|:---------:|
@@ -125,9 +122,8 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2022-03-27	|             Thin-Plate Spline Motion Model for Image Animation          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.14367) 	|          GAN          	| Motion Field	|             CVPR 2022             	|
 | 2022-03-17	|             Latent Image Animator: Learning to Animate Images via Latent Space Navigation          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09043) 	|          GAN          	| Motion Field	|             TPAMI 2024             	|
 
-</details>
 
-<details><summary>Listener Response Synthesis</summary>
+###Listener Response Synthesis
 
 | **Date**   | **Title** | **Link** | **Representation** | **Model** | **Venue** |
 |:----------:|:----------|:--------:|:------------------:|:---------:|:---------:|
@@ -136,7 +132,6 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2024-03-14	|             Dyadic Interaction Modeling for Social Behavior Generation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.09069) 	|          Audio       	| VAE 	|              ECCV 2024             	|
 | 2024-03-01	|             CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.00274) 	|          Text + Audio       	| Diffusion  	|              CVPR 2024             	|
 
-</details>
 
 ## 🔄 Updates 
 

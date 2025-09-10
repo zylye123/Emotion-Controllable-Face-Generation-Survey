@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> 
-  <a href="assets/Human Motion Video Generation A Survey.pdf">
+  <a href="https://github.com/zylye123/Emotion-Controllable-Face-Generation-Survey">
     <img src="https://img.shields.io/badge/arXiv-b31b1b.svg" alt="Arxiv PDF">
   </a>
   <a href="https://github.com/zylye123/Emotion-Controllable-Face-Generation-Survey">
@@ -18,7 +18,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 
 ## 📢 News
 
-- **[2025-09-xx]** Our paper *"A Survey on Emotion-Controllable Face Generation"* is now available on [arXiv](), and this repository has been open-sourced!
+- **[2025-09-xx]** Our paper *"A Survey on Emotion-Controllable Face Generation"* is now available on [arXiv](https://github.com/zylye123/Emotion-Controllable-Face-Generation-Survey), and this repository has been open-sourced!
 
 
 ## 🔖 Table of Contents

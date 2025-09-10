@@ -52,7 +52,7 @@ Our goal is to maintain a **living resource** that helps researchers and practit
             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.10530) 	|           Text + Semantic Map              	| Diffusion	|                    CVPR 2023                  	|
 | 2023-12-21 	|            Controllable 3D Face Generation with Conditional Style Code Diffusion
             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13941) 	|           Text + 3DMM              	| Diffusion	|                    AAAI 2024                  	|
-
+</details>
 
 
 
@@ -94,6 +94,7 @@ for Multi-Domain Image-to-Image Translation            	| [![arXiv](https://img.
             	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01207) 	|           Text             	| Diffusion	|                    CVPR 2024                   	|
 | 2025-04-30 	|             Instruction-Driven 3D Facial Expression Generation and Transition
             	| [![arXiv](https://img.shields.io/badge/TMM-blue)](https://ieeexplore.ieee.org/abstract/document/10980355) 	|           Text             	| VAE	|                    TMM 2025                   	|
+</details>
 
 <details><summary>Face Swapping</summary>
 |  **Date**  	|                                                **Title**                                                	|                                        **arXiv Link**                                       	| **Representation** 	|   **Model**  	|                  **Venue**                 	|
@@ -135,7 +136,7 @@ Audio-visual Dataset            	| [![arXiv](https://img.shields.io/badge/CVPR-b
            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06010) 	|         Audio            	| VAE  	|              AAAI 2025              	|
 | 2025-03-03	|          KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation 
            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.01715) 	|         Audio + V/A Model             	| Diffusion 	|              CVPR 2025               	|
-
+</details>
 
 <details><summary>Listener Response Synthesis</summary>
 |  **Date**  	|                                                **Title**                                                	|                                        **arXiv Link**                                       	| **Representation** 	|   **Model**  	|                  **Venue**                 	|
@@ -145,7 +146,7 @@ Audio-visual Dataset            	| [![arXiv](https://img.shields.io/badge/CVPR-b
 | 2024-01-15	|             Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion            	| [![arXiv](https://img.shields.io/badge/ICCV-blue)](https://ieeexplore.ieee.org/abstract/document/10377831) 	|          Audio + Emotion Vector + 3DMM          	| VAE 	|              ICCV 2023             	|
 | 2024-03-14	|             Dyadic Interaction Modeling for Social Behavior Generation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.090691) 	|          Audio       	| VAE 	|              ECCV 2024             	|
 | 2024-03-01	|             CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.00274) 	|          Text + Audio       	| Diffusion  	|              CVPR 2024             	|
-
+</details>
 
 <details><summary>Face Image Animation</summary>
 |  **Date**  	|                                                **Title**                                                	|                                        **arXiv Link**                                       	| **Representation** 	|   **Model**  	|                  **Venue**                 	|
@@ -158,6 +159,7 @@ Audio-visual Dataset            	| [![arXiv](https://img.shields.io/badge/CVPR-b
 | 2020-02-29	|             First Order Motion Model for Image Animation          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2003.00196) 	|          GAN          	| Motion Field	|             NeurlPS 2019             	|
 | 2022-03-27	|             Thin-Plate Spline Motion Model for Image Animation          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.14367) 	|          GAN          	| Motion Field	|             CVPR 2022             	|
 | 2022-03-17	|             Latent Image Animator: Learning to Animate Images via Latent Space Navigation          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09043) 	|          GAN          	| Motion Field	|             TPAMI 2024             	|
+</details>
 
 ## 🔄 Updates
 

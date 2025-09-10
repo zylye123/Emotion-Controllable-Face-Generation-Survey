@@ -38,7 +38,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 
 ## 📚 Papers
 
-###Identity-preserving Expression Editing
+### Identity-preserving Expression Editing
 
 | **Date**  | **Title** | **Link** | **Representation** | **Model** | **Venue** |
 |:---------:|:----------|:--------:|:------------------:|:---------:|:---------:|
@@ -63,7 +63,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2024-01-02 	|             Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01207) 	|           Text             	| Diffusion	|                    CVPR 2024                   	|
 | 2025-04-30 	|             Instruction-Driven 3D Facial Expression Generation and Transition| [![TMM](https://img.shields.io/badge/TMM-blue)](https://ieeexplore.ieee.org/abstract/document/10980355) 	|           Text             	| VAE	|                    TMM 2025                   	|
 
-###Categorical Conditioned Generation
+### Categorical Conditioned Generation
 
 | **Date**  | **Title** | **Link** | **Representation** | **Model** | **Venue** |
 |:---------:|:---------:|:---------------:|:-----------------:|:---------:|:---------:|
@@ -76,7 +76,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 
 
 
-###Face Swapping
+### Face Swapping
 
 | **Date**   | **Title** | **Link** | **Representation** | **Model** | **Venue** |
 |:----------:|:----------|:--------:|:------------------:|:---------:|:---------:|
@@ -85,7 +85,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 
 
 
-###Talking Face Generation
+### Talking Face Generation
 
 | **Date**   | **Title** | **Link** | **Representation** | **Model** | **Venue** |
 |:----------:|:----------|:--------:|:------------------:|:---------:|:---------:|
@@ -110,7 +110,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2024-08-12	|           DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animatio| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06010) 	|         Audio            	| VAE  	|              AAAI 2025              	|
 | 2025-03-03	|          KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.01715) 	|         Audio + V/A Model             	| Diffusion 	|              CVPR 2025               	|
 
-###Face Image Animation
+### Face Image Animation
 
 | **Date**   | **Title** | **Link** | **Representation** | **Model** | **Venue** |
 |:----------:|:----------|:--------:|:------------------:|:---------:|:---------:|
@@ -123,7 +123,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2022-03-17	|             Latent Image Animator: Learning to Animate Images via Latent Space Navigation          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09043) 	|          GAN          	| Motion Field	|             TPAMI 2024             	|
 
 
-###Listener Response Synthesis
+### Listener Response Synthesis
 
 | **Date**   | **Title** | **Link** | **Representation** | **Model** | **Venue** |
 |:----------:|:----------|:--------:|:------------------:|:---------:|:---------:|

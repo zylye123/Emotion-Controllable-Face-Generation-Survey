@@ -33,7 +33,6 @@ Our goal is to maintain a **living resource** that helps researchers and practit
   - [📢 News](#news)
   - [📚 Papers](#papers)
   - [🔄 Update](#update)
-  - [🤝 Contributing](#-contributing)
 
 ## 📚 Papers
 <details><summary>Categorical Conditioned Generation</summary>
@@ -129,7 +128,7 @@ Our goal is to maintain a **living resource** that helps researchers and practit
 
 | **Date**   | **Title** | **Link** | **Representation** | **Model** | **Venue** |
 |:----------:|:----------|:--------:|:------------------:|:---------:|:---------:|
-| 2019-08-24	|             GANimation: One-Shot Anatomically Consistent Facial Animation            	| [![arXiv](https://img.shields.io/badge/IJCV-blue)](https://link.springer.com/article/10.1007/s11263-019-01210-3) 	|          AU Vector          	| GAN 	|              IJCV 2020             	|
+| 2019-08-24	|             GANimation: One-Shot Anatomically Consistent Facial Animation            	| [![IJCV](https://img.shields.io/badge/IJCV-blue)](https://link.springer.com/article/10.1007/s11263-019-01210-3) 	|          AU Vector          	| GAN 	|              IJCV 2020             	|
 | 2019-04-03	|             Icface: Interpretable and controllable face reenactment using gans.            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1904.01909) 	|          AU Vector          	| GAN 	|              WACV 2020             	|
 | 2023-04-06	|             Face Animation with an Attribute-Guided Diffusion Model          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.03199) 	|          3DMM          	| Diffusion 	|             CVPR 2023             	|
 | 2024-10-10	|             Generalizable and Animatable Gaussian Head Avatar          	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07971) 	|          3DMM          	| 3DGS  	|             NeurIPS 2024             	|
@@ -139,7 +138,7 @@ Our goal is to maintain a **living resource** that helps researchers and practit
 
 </details>
 
-## 🔄 Updates
+## 🔄 Updates 
 
 This survey is a **living document** and will be continuously updated.  
 We regularly track newly published papers, datasets, and projects related to **Emotion-Controllable Face Generation**, and integrate them into this repository.  
@@ -149,30 +148,6 @@ We regularly track newly published papers, datasets, and projects related to **E
 - 🙌 **Community help**: If you notice new works that are not yet included, feel free to open an issue or a pull request.  
 
 Stay tuned for the latest progress!
-
-
-## 🤝 Contributing
-
-We warmly welcome contributions from the community!  
-This survey aims to provide a comprehensive overview of **Emotion-Controllable Face Generation**, and we would be grateful for your help in keeping it up to date.
-
-### What you can contribute
-- 📄 **Papers**: recently published works related to emotion-controllable face generation.  
-- 📊 **Datasets**: public datasets that enable training or evaluation in this area.  
-- 🛠️ **Projects & Tools**: open-source implementations, libraries, or frameworks.  
-- 🎬 **Demos & Applications**: interactive systems, web demos, or products showcasing relevant techniques.
-
-### How to contribute
-1. **Open an issue** to suggest new papers, datasets, or corrections.  
-2. **Submit a pull request (PR)** with your additions (please follow the existing format for consistency).  
-3. For major contributions (e.g., restructuring sections), please discuss with us first via an issue.  
-
-### Contribution guidelines
-- Ensure references include **title, authors, venue, and year**.  
-- Add links to **official repositories or project pages** whenever possible.  
-- Keep descriptions concise and objective (avoid promotional wording).  
-
-By contributing, you help make this survey a **living resource** for researchers and practitioners in the field of **Emotion-Controllable Face Generation**. Thank you for your support! 🙌
 
 
 ## Cite The Survey

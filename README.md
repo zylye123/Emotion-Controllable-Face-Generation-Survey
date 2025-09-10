@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Update 🔥-2025.09.xx-red" alt="MorePapers">
 </p>
 
+
 ## 📖 Introduction
 
 This repository is related to **Emotion-Controllable Face Generation**. It organizes research works in this area and categorizes them by **different tasks** for easier navigation. Our goal is to maintain a **living resource** that helps researchers and practitioners track the latest progress in the field.
@@ -80,6 +81,9 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 
 | **Date**   | **Title** | **Link** | **Representation** | **Model** | **Venue** |
 |:----------:|:----------|:--------:|:------------------:|:---------:|:---------:|
+| 2019-10 | FSGAN: Subject Agnostic Face Swapping and Reenactment | [![ICCV](https://img.shields.io/badge/IJCV-blue)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf) | Landmarks | GAN | ICCV 2019 |
+| 2022-02-25 | FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.12972) |Landmarks | GAN | Arxiv 2022|
+| 2021-06-18 | HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.09965) | 3DMM | GAN | IJCAI 2021|
 | 2021-08-18 | A Unified Framework for High Fidelity Face Swap and Expression Reenactment | [![TCSVT](https://img.shields.io/badge/TCSVT-blue)](https://ieeexplore.ieee.org/abstract/document/9517088/) | 3DMM | VAE | TCSVT 2022 |
 | 2025-03-11 | UniFace++: Revisiting a Unified Framework for Face Reenactment and Swapping via 3D Priors | [![IJCV](https://img.shields.io/badge/IJCV-blue)](https://link.springer.com/article/10.1007/s11263-025-02395-6) | 3DMM | Diffusion | IJCV 2025 |
 

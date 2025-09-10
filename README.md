@@ -1,7 +1,5 @@
 # A Survey on Emotion-Controllable Face Generation
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> 
   <a href="assets/Human Motion Video Generation A Survey.pdf">
@@ -13,7 +11,6 @@
   <br>
   <img src="https://img.shields.io/badge/Update 🔥-2025.09.xx-red" alt="MorePapers">
 </p>
----
 
 ## 📖 Introduction
 

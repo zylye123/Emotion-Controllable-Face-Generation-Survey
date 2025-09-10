@@ -102,6 +102,7 @@ for Multi-Domain Image-to-Image Translation            	| [![arXiv](https://img.
 
 | 2021-08-18	|             A Unified Framework for High Fidelity Face Swap and Expression Reenactment            	| [![arXiv](https://img.shields.io/badge/TCSVT-blue)](https://ieeexplore.ieee.org/abstract/document/9517088/) 	|          3DMM           	| VAE 	|             TCSVT 2022             	|
 | 2025-03-11	|             UniFace++: Revisiting a Unified Framework for Face Reenactment and Swapping via 3D Priors            	| [![arXiv](https://img.shields.io/badge/IJCV-blue)](https://link.springer.com/article/10.1007/s11263-025-02395-6) 	|          3DMM           	| Diffusion	|             IJCV 2025             	|
+</details>
 
 <details><summary>Talking Face Generation</summary>
 |  **Date**  	|                                                **Title**                                                	|                                        **arXiv Link**                                       	| **Representation** 	|   **Model**  	|                  **Venue**                 	|

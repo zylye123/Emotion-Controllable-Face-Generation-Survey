@@ -38,20 +38,16 @@ Our goal is to maintain a **living resource** that helps researchers and practit
 ## 📚 Papers
 
 <details><summary>Categorical Conditioned Generation</summary>
-|  **Date**  	|                                                **Title**                                                	|                                        **arXiv Link**                                       	| **Representation** 	|   **Model**  	|                  **Venue**                 	|
-|:----------:	|:-------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------:	|:--------------------------:	|:---------------:	|:------------------------------------------:	|
-| 2021-06 	|            GANmut: Learning interpretable conditional space for gamut of emotions            	| [![arXiv](https://img.shields.io/badge/CVPR-blue)](https://openaccess.thecvf.com/content/CVPR2021/papers/dApolito_GANmut_Learning_Interpretable_Conditional_Space_for_Gamut_of_Emotions_CVPR_2021_paper.pdf) 	|          V/A model           	| GAN	|   CVPR 2021 ｜
-| 2024-04-01 	|            A Unified and Interpretable Emotion Representation and Expression Generation
-            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.01243) 	|           AU Vector + V/A Model             	| Diffusion	|                    CVPR 2024                   	|
-| 2022-11-23 	|            CGOF++: Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields
-            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.13251) 	|           3DMM              	| GAN	|                    TPAMI 2023                   	|
-| 2020-04-02 	|            Learning formation of physically-based face attributes
-            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2004.03458) 	|           3DMM + UV map              	| GAN	|                    CVPR 2020                  	|
-                3DMM              	| GAN	|                    TPAMI 2023                   	|
-| 2023-04-20 	|            Collaborative Diffusion for Multi-Modal Face Generation and Editing
-            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.10530) 	|           Text + Semantic Map              	| Diffusion	|                    CVPR 2023                  	|
-| 2023-12-21 	|            Controllable 3D Face Generation with Conditional Style Code Diffusion
-            	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13941) 	|           Text + 3DMM              	| Diffusion	|                    AAAI 2024                  	|
+
+| **Date**  | **Title** | **arXiv Link** | **Representation** | **Model** | **Venue** |
+|:---------:|:---------:|:---------------:|:-----------------:|:---------:|:---------:|
+| 2021-06   | GANmut: Learning interpretable conditional space for gamut of emotions | [![CVPR](https://img.shields.io/badge/CVPR-blue)](https://openaccess.thecvf.com/content/CVPR2021/papers/dApolito_GANmut_Learning_Interpretable_Conditional_Space_for_Gamut_of_Emotions_CVPR_2021_paper.pdf) | V/A model | GAN | CVPR 2021 |
+| 2024-04-01| A Unified and Interpretable Emotion Representation and Expression Generation | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.01243) | AU Vector + V/A Model | Diffusion | CVPR 2024 |
+| 2022-11-23| CGOF++: Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.13251) | 3DMM | GAN | TPAMI 2023 |
+| 2020-04-02| Learning formation of physically-based face attributes | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2004.03458) | 3DMM + UV map | GAN | CVPR 2020 |
+| 2023-04-20| Collaborative Diffusion for Multi-Modal Face Generation and Editing | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.10530) | Text + Semantic Map | Diffusion | CVPR 2023 |
+| 2023-12-21| Controllable 3D Face Generation with Conditional Style Code Diffusion | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13941) | Text + 3DMM | Diffusion | AAAI 2024 |
+
 </details>
 
 

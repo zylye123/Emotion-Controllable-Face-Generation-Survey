@@ -3,12 +3,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> 
   <a href="https://github.com/zylye123/Emotion-Controllable-Face-Generation-Survey">
-    <img src="https://img.shields.io/badge/arXiv-b31b1b.svg" alt="Arxiv PDF">
-  </a>
-  <a href="https://github.com/zylye123/Emotion-Controllable-Face-Generation-Survey">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
   </a>
   <br>
+  <a href="https://github.com/zylye123/Emotion-Controllable-Face-Generation-Survey">
+    <img src="https://img.shields.io/badge/arXiv-b31b1b.svg" alt="Arxiv PDF">
+  </a>
   <img src="https://img.shields.io/badge/Update 🔥-2025.09.xx-red" alt="MorePapers">
 </p>
 

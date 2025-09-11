@@ -43,7 +43,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 
 | **Date**  | **Title** | **Venue** | **Representation** | **Model** | **Link** |
 |:---------:|:----------|:--------:|:------------------:|:---------:|:---------:|
-| 2017-09-12 | ExprGAN: Facial Expression Editing With Controllable Expression Intensity | AAAI 2018 | Emotion Vector | GAN | AAAI 2018[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1709.03842) |
+| 2017-09-12 | ExprGAN: Facial Expression Editing With Controllable Expression Intensity | AAAI 2018 | Emotion Vector | GAN | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1709.03842) |
 | 2017-11-24 | StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation | CVPR 2018 | Emotion Vector | GAN | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1711.09020) |
 | 2018-06 | Joint Pose and Expression Modeling for Facial Expression Recognition | CVPR 2018 | Emotion Vector | GAN | [![CVPR](https://img.shields.io/badge/CVPR-blue)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Joint_Pose_and_CVPR_2018_paper.pdf) |
 | 2018-11-12 | Deep Neural Network Augmentation: Generating Faces for Affect Analysis | IJCV 2020 | V/A model | Regression | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1811.05027) |
@@ -73,7 +73,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2022-11-23| CGOF++: Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields | TPAMI 2023 | 3DMM | GAN | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.13251) |
 | 2020-04-02| Learning formation of physically-based face attributes | CVPR 2020 | 3DMM + UV map | GAN | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2004.03458) |
 | 2023-04-20| Collaborative Diffusion for Multi-Modal Face Generation and Editing | CVPR 2023 | Text + Semantic Map | Diffusion | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.10530) |
-| 2023-12-21| Controllable 3D Face Generation with Conditional Style Code Diffusion | AAAI 2024 | Text + 3DMM | Diffusion | AAAI 2024[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13941)  |
+| 2023-12-21| Controllable 3D Face Generation with Conditional Style Code Diffusion | AAAI 2024 | Text + 3DMM | Diffusion | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13941)  |
 
 
 

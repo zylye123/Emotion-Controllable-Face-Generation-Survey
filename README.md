@@ -60,7 +60,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2024-05-09 |             MasterWeaver: Taming Editability and Face Identity for Personalized Text-to-Image Generation| ECCV 2024 | Text | Diffusion	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.05806)                 	|
 | 2023-12-07 |             PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding|  CVPR 2024 | Text | Diffusion	|  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04461)             	|
 | 2024-01-02 |             Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation| CVPR 2024	| Text | Diffusion	|                             [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01207)         	|
-| 2025-04-30 |             Instruction-Driven 3D Facial Expression Generation and Transition| TMM 2025 | Text | VAE	|       [![TMM](https://img.shields.io/badge/TMM-blue)](https://ieeexplore.ieee.org/abstract/document/10980355)                   	|
+
 
 ### Categorical Conditioned Generation
 
@@ -125,6 +125,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 | 2020-02-29 |             First Order Motion Model for Image Animation          	| NeurlPS 2019	|          GAN          	| Motion Field	|  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2003.00196)             	|
 | 2022-03-27 |             Thin-Plate Spline Motion Model for Image Animation          	| CVPR 2022 |          GAN          	| Motion Field	|       [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.14367) 	             	|
 | 2022-03-17 |             Latent Image Animator: Learning to Animate Images via Latent Space Navigation          	|  TPAMI 2024  	|          GAN          	| Motion Field	| [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09043)            	|
+| 2025-04-30 |             Instruction-Driven 3D Facial Expression Generation and Transition| TMM 2025 | Text | VAE	|       [![TMM](https://img.shields.io/badge/TMM-blue)](https://ieeexplore.ieee.org/abstract/document/10980355)                   	|
 
 
 ### Listener Response Synthesis

@@ -34,6 +34,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
     - [Talking Face Generation](#talking-face-generation)
     - [Face Image Animation](#face-image-animation)
     - [Listener Response Synthesis](#listener-response-synthesis)
+  - [📚 Dataset](#-datasets)
   - [🔄 Updates](#-updates)
 
 
@@ -134,6 +135,14 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 > 🔗 **Note**: We prioritize linking to **arXiv** (earliest version).  
 > If a paper is not on arXiv, we provide the earliest official conference/journal link.
 
+## 📚 Dataset
+
+| Year | Title | Venue | Modality | Link |
+|------|-------|-------|----------|------|
+| 2006 | A 3D facial expression database for facial behavior research | FGR 2006 | Vision | [![FGR](https://img.shields.io/badge/FGR-blue)](https://ieeexplore.ieee.org/document/1613022)     |
+| 2010| Facial expression recognition from near-infrared videos | IVC 2011 | Vision| [![IVC](https://img.shields.io/badge/-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0262885611000515) |
+| 2013 | Challenges in Representation Learning: A report on three machine learning contests | ICONIP 2013 | Vision | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1307.0414)     |
+| 2017 | AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild | TAFFC 2017 | Vision | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1708.03985)     |
 
 ## 🔄 Updates 
 

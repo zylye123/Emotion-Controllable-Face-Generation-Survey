@@ -141,9 +141,17 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 |------|-------|-------|----------|------|
 | 2006 | A 3D facial expression database for facial behavior research | FGR 2006 | Vision | [![FGR](https://img.shields.io/badge/FGR-blue)](https://ieeexplore.ieee.org/document/1613022)     |
 | 2010| Facial expression recognition from near-infrared videos | IVC 2011 | Vision| [![IVC](https://img.shields.io/badge/IVC-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0262885611000515) |
+| 2010 | The Extended Cohn-Kanade Dataset (CK+): A complete dataset for action unit and emotion-specified expression | CVPR Workshop 2010 | Vision | [![CVPRW](https://img.shields.io/badge/CVPRW-blue)](https://ieeexplore.ieee.org/abstract/document/5543262)     |
 | 2013 | Challenges in Representation Learning: A report on three machine learning contests | ICONIP 2013 | Vision | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1307.0414)     |
-| 2017 | AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild | TAFFC 2017 | Vision | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1708.03985)     |
+| 2013 | Disfa: A spontaneous facial action intensity database | TAFFC 2013 | Vision | [![arXiv](https://img.shields.io/badge/TAFFC_blue)](https://ieeexplore.ieee.org/abstract/document/6475933)     |
+| 2014 | Bp4d-spontaneous: a high-resolution spontaneous 3d dynamic facial expression database | IVC 2014 | Vision | [![IVC](https://img.shields.io/badge/IVC-blue)](https://www.sciencedirect.com/science/article/pii/S0262885614001012)     |
+| 2014 | Deep Learning Face Attributes in the Wild | ICCV 2015 | Vision | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1411.7766)     |
+| 2016 | Multimodal Spontaneous Emotion Corpus for Human Behavior Analysis | CVPR 2016 | Vision | [![CVPR](https://img.shields.io/badge/CVPR-blue)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Multimodal_Spontaneous_Emotion_CVPR_2016_paper.html)     |
 | 2016 | EmotioNet: An Accurate, Real-Time Algorithm for the Automatic Annotation of a Million Facial Expressions in the Wild | CVPR 2016 | Vision | [![CVPR](https://img.shields.io/badge/CVPR-blue)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Benitez-Quiroz_EmotioNet_An_Accurate_CVPR_2016_paper.html)     |
+| 2017 | AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild | TAFFC 2017 | Vision | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1708.03985)     |
+| 2017 | Progressive Growing of GANs for Improved Quality, Stability, and Variation | arXiv 2017 | Vision | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1710.10196)     |
+| 2020 | TediGAN: Text-Guided Diverse Face Image Generation and Manipulation | CVPR 2021 | Vision and Text | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2012.03308)     |
+| 2021 | Talk-To-Edit: Fine-Grained Facial Editing via Dialog | ICCV 2021 | Vision and Text | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.04425)     |
 
 ## 🔄 Updates 
 

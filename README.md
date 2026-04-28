@@ -37,6 +37,52 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
   - [📚 Datasets](#-datasets)
   - [🔄 Updates](#-updates)
 
+---
+## Dataset Access Information
+
+The table below provides practical access information for the facial-expression-centric datasets reviewed in this survey. We prioritize official dataset pages, author-maintained project pages, and stable institutional repositories. Since access policies may change over time, readers should always check the corresponding license, data-use agreement, and redistribution restrictions before downloading or using a dataset.
+
+**Access tags**
+- *Open* — direct public download, no registration required.
+- *EULA* — sign an end-user licence agreement and submit (often by email) to obtain the data.
+- *Request* — fill in a request form / contact authors; approval typically required.
+- *Restricted* — access currently unavailable, ended, or limited; check the official page for current status.
+
+| Dataset | Year | Homepage / Project Page | Access |
+|---|---:|---|---|
+| BU-3DFE | 2006 | [Official BU-3DFE page](https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html) | *Request* — agreement via official page |
+| Oulu-CASIA | 2010 | [University of Oulu CMVS](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-for-machine-vision-and-signal-analysis) | *Request* — by email to maintainer |
+| FER-2013 | 2013 | [Kaggle FER-2013 challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) | *Open* — Kaggle login + terms |
+| CK+ | 2010 | [Jeffrey Cohn resources page](https://www.jeffcohn.net/resources/) | *Restricted* — distribution ended May 1, 2025 |
+| EmotioNet | 2016 | [EmotioNet challenge page](http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/) | *Restricted* — limited availability, check page |
+| RaFD | 2010 | [RaFD official page](https://rafd.nl/) | *Restricted* — downloads currently unavailable |
+| AffectNet | 2017 | [AffectNet official page](https://mohammadmahoor.com/pages/databases/affectnet/) | *Request* — agreement via official page |
+| BP4D | 2013 | [BP4D technology page](https://binghamton.technologypublisher.com/tech?title=BP4D%3A_4D_Spontaneous_Facial_Expression_Database) | *Request* — institutional agreement |
+| BP4D+ | 2014 | [AffCom resources](https://affcom.ku.edu/resources.html) | *Request* — institutional agreement |
+| DISFA | 2013 | [DISFA official page](https://www.mohammadmahoor.com/pages/databases/disfa/) | *Request* — signed form |
+| CelebA | 2015 | [CelebA official page](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) | *Open* — Google Drive / Baidu, non-commercial |
+| CelebA-HQ | 2018 | [Progressive GAN repository](https://github.com/tkarras/progressive_growing_of_gans) | *Open* — generated via released script |
+| MM-CelebA-HQ | 2021 | [MM-CelebA-HQ GitHub](https://github.com/IIGROUP/MM-CelebA-HQ-Dataset) | *Restricted* — repo redirects to original sources |
+| CelebA-Dialog | 2021 | [CelebA-Dialog GitHub](https://github.com/ziqihuangg/CelebA-Dialog) | *Open* — direct Google Drive links |
+| FFHQ | 2019 | [FFHQ official GitHub](https://github.com/NVlabs/ffhq-dataset) | *Open* — metadata + download scripts |
+| FaceForensics++ | 2019 | [FaceForensics++ GitHub](https://github.com/ondyari/FaceForensics) | *EULA* — Google Form linked from repo |
+| CASME II | 2014 | [CASME II official page](https://casme.psych.ac.cn/casme/e2) | *EULA* — application + licence agreement |
+| CAS(ME)^3 | 2022 | [CAS(ME)^3 official page](https://casme.psych.ac.cn/casme/e4) · [ME-Lab mirror](https://melabipcas.github.io/melab/en/databases.html) | *EULA* — application + licence agreement |
+| SAMM | 2016 | [SAMM release agreement](https://megc2022.github.io/files/SAMM_ReleaseAgreementV2.pdf) | *EULA* — signed release agreement |
+| SMIC | 2013 | [University of Oulu CMVS](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-for-machine-vision-and-signal-analysis) | *Request* — by email, indicate subset |
+| NaME | 2025 | [NaME GitHub](https://github.com/real-ljt/NAMEdataset) | *EULA* — sign agreement + email author |
+| IMPA-FACE3D | 2008 | [IMPA FacesDB](https://app.visgraf.impa.br/database/faces/) | *Open* — project page download tab |
+| VoxCeleb1 | 2017 | [VoxCeleb official page](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/) | *Open* — form for full set; URLs + timestamps |
+| VoxCeleb2 | 2018 | [VoxCeleb official page](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/) | *Open* — same access route as VoxCeleb1 |
+| Aff-Wild2 | 2019 | [Aff-Wild2 official page](https://sites.google.com/view/dimitrioskollias/databases/aff-wild2) | *EULA* — academic email + signed form |
+| MEAD | 2020 | [MEAD project page](https://wywu.github.io/projects/MEAD/MEAD.html) | *Open* — Google Drive / Baidu links |
+| GRID | 2006 | [GRID corpus on Zenodo](https://zenodo.org/records/3625687) | *Open* — CC-BY 4.0, per-talker archives |
+| ViCo | 2022 | [ViCo project page](https://project.mhzhou.com/vico/) | *Request* — research-use access |
+| RealTalk | 2023 | [RealTalk project page](https://realtalk.cs.columbia.edu/) | *Request* — via Google Form on project page |
+
+> 🔄 **Note on availability.** Access policies are set by the dataset owners and may change over time. Some EULA-gated datasets require an *institutional* email and a signed form before download links are provided. Where a dataset has multiple mirrors, we list the most authoritative one. Last verified: 2026-04. Please open an issue or PR if a link breaks or an access policy changes.
+
+---
 
 ## 📚 Papers
 

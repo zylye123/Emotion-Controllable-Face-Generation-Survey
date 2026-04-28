@@ -19,8 +19,9 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 
 ## 📢 News
 
-- **[2025-09-xx]** Our paper *"A Survey on Emotion-Controllable Face Generation"* is now available on [arXiv](https://github.com/zylye123/Emotion-Controllable-Face-Generation-Survey), and this repository has been open-sourced!
+- **[2026-04-28]** Database Access is updated.
 
+- **[2025-09]** Our paper *"A Survey on Emotion-Controllable Face Generation"* is now available on [techrxiv](https://github.com/zylye123/Emotion-Controllable-Face-Generation-Survey), and this repository has been open-sourced!
 
 ## 🔖 Table of Contents
 

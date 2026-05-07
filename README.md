@@ -23,7 +23,7 @@ This repository is related to **Emotion-Controllable Face Generation**. It organ
 
 - **[2026-04-28]** Database Access is updated.
 
-- **[2025-09]** Our paper *"A Survey on Emotion-Controllable Face Generation"* is now available on [techrxiv]((https://www.techrxiv.org/doi/full/10.36227/techrxiv.176583670.09436600/v1)), and this repository has been open-sourced!
+- **[2025-09]** Our paper *"A Survey on Emotion-Controllable Face Generation"* is now available on [techrxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176583670.09436600/v1), and this repository has been open-sourced!
 
 ## 🔖 Table of Contents
 
